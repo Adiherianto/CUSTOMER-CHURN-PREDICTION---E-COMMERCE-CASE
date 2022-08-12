@@ -24,14 +24,18 @@ Berdasarkan kinerja model, akan dipilih model yang akan melampirkan probabilitas
 
 Prediksi customer churn berdasarkan pola perilaku customer, seperti complain dan tingkat kepuasan customer. Sehingga kita dapat menurunkan angka churn dan fokus meningkatkan retensi pelanggan (misalnya dengan memberikan program loyalitas pelanggan) sehingga cost operation dapat diminimalisir. Karena cost yang dikeluarkan untuk mendapatkan customer baru akan lebih tinggi dibandingkan mempertahankan pelanggan yang sudah ada. <br>
 - Tingkat Churn customer berkurang, targetnya <10% <br>
-- Tingkat kepuasan customer naik >3 <br>
+- Tenure meningkat <br>
+- Complain turun < 17% <br>
+- HourSpendOnApp naik 82% <br> 
 
 ### 4. Objective<br>
 
 Membuat model machine learning untuk memprediksi customer yang akan churn.<br>
 
 ### 5. Business Metrics<br>
-1. Churn Rate - (Main)<br>
-2. Satisfaction Score (Customer Satisfaction) - (Secondary)<br>
+1. Churn Rate turun- (Main)<br>
+2. Tenure meningkat <br>
+3. Complain turun < 17% <br>
+4. HourSpendOnApp naik 82% <br>
 
 
