@@ -9,7 +9,7 @@ Customer churn merupakan hal yang dihindari oleh perusahaan karena akan berakiba
 
 Salah satu cara mempertahankan customer yang sudah ada dapat disebut sebagai customer retention, adalah kegiatan dan tindakan yang dilakukan perusahaan untuk mengurangi customer defection. Keuntungannya dapat menghemat bujet dibandingkan mencari customer baru, karena perusahaan tak perlu lagi menarik, mengedukasi dan melakukan persuasi kembali. <br>
 
-Dari dataset, diperoleh hasil perhitungan churn rate / conversion atau perbandingan antara customer yang churn dan total customer sebesar 16,84%.  Berdasarkan Lincoln Murphy, tingkat churn yang dapat diterima berada dalam kisaran 5 - 7% pertahun, tergantung pada apakah Anda mengukur pelanggan atau pendapatan. Semakin besar bisnis yang kita targetkan maka churn rate harus semakin kecil agar growth rate perusahaan semakin tinggi. Diharapkan dengan dataset ini, tim Avengers sebagai data scientist dapat membuat model prediktif untuk Customer Churn berdasrakan  perilaku customer <br?
+Dari dataset, diperoleh hasil perhitungan churn rate / conversion atau perbandingan antara customer yang churn dan total customer sebesar 16,84%.  Berdasarkan Lincoln Murphy, tingkat churn yang dapat diterima berada dalam kisaran 5 - 7% pertahun, tergantung pada apakah Anda mengukur pelanggan atau pendapatan. Semakin besar bisnis yang kita targetkan maka churn rate harus semakin kecil agar growth rate perusahaan semakin tinggi. Diharapkan dengan dataset ini, tim Avengers sebagai data scientist dapat membuat model prediktif untuk Customer Churn berdasrakan  perilaku customer <br>
 
 
 ### 2. Role <br>
