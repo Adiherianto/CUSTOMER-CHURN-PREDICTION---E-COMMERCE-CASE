@@ -1,4 +1,4 @@
-# CUSTOMER-CHURN-PREDICTION---E-COMMERCE-CASE
+# CUSTOMER-CHURN-PREDICTION (E-COMMERCE-CASE)
 Final Project-Rakamin Academy Kelompok 2: Avengers Team
 
 ### 1. Problem Statement <br>
